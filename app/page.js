@@ -1,6 +1,9 @@
+import SortingGame from "@/components/SortingGame";
 
 export default function Home() {
   return (
-    <div></div>
+    <div>
+      <SortingGame></SortingGame>
+    </div>
   );
 }
